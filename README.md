@@ -1,30 +1,60 @@
 # Matte Manikanta-personal portfolio
-Welcome to the source code of my personal portfolio website! This site showcases my background, skills, and projects as a Software Engineer and AI Enthusiast.
 
-🚀 Live Demo
-(Add live demo link here if hosted, e.g., GitHub Pages, Vercel, Netlify)
+This is my personal portfolio website developed as part of the Future Interns Full Stack Web Development Internship – Task 1.
 
-🛠️ Technologies Used
-HTML5: Semantic structure and content.
-CSS3: Custom styling, responsive design (Flexbox/Grid), and theme toggling (Light/Dark mode).
-JavaScript (Vanilla): Interactivity, smooth scrolling, and dark mode logic.
-Google Fonts: Custom typography (Inter and Outfit).
-FontAwesome: Scalable vector icons.
-✨ Features
-Responsive Design: Fully functional and visually appealing on all devices (mobile, tablet, desktop).
-Light/Dark Mode: Built-in theme toggle with local storage persistence to remember user preference.
-Dynamic Projects Section: Highlights featured technical projects like the Stock Price Prediction System and Smart Traffic Management System.
-Interactive Contact Form: Integrated with Formspree for easy communication.
-Smooth Navigation: Sticky header and smooth scrolling for a seamless user experience.
-⚙️ How to Run Locally
-To view or modify this project on your local machine:
+## 🚀 Live Website
+boisterous-tapioca-195cef.netlify.app
 
-Clone the repository:
-git clone <your-repository-url>
-Navigate to the project directory:
-cd futuretask_1
-Open the project: Simply open index.html in your preferred web browser, or use a tool like Live Server in VS Code for real-time reloading.
-📬 Contact
-Email: manikantanani4444@gmail.com
-LinkedIn: (www.linkedin.com/in/matte-veera-venkata-manikanta-428a0032a)
-GitHub: (https://github.com/24A31A05FP/FUTURE_FS_01)
+## 📂 GitHub Repository
+https://github.com/24A31A05FP/FUTURE_FS_01
+
+## 👨‍💻 About Project
+
+This portfolio website showcases:
+- My skills
+- Projects
+- Education
+- Internships
+- Certifications
+- Resume
+- Contact details
+
+The website is fully responsive and works on both desktop and mobile devices.
+
+## 🛠️ Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+## 📌 Features
+
+- Responsive Portfolio Design
+- Professional Homepage
+- Skills Section
+- Projects Showcase
+- Resume Download Option
+- Contact Section
+- Social Media Links
+
+## 📁 Projects Included
+
+### 1. Live Video Streaming
+Built using HTML, CSS and JavaScript.
+
+### 2. Tic Tac Toe
+Built using Python.
+
+### 3. AI Health Detect System
+Built using HTML, CSS and JavaScript.
+
+## 📞 Contact
+
+- Email: manikantanani4444@gmail.com
+- GitHub: https://github.com/24A31A05FP
+- LinkedIn: https://www.linkedin.com/in/matte-veera-venkata-manikanta-428a0032a
+
+## 🎯 Internship Task
+
+Future Interns – Full Stack Web Development Internship  
+Task 1 – Personal Portfolio Website
